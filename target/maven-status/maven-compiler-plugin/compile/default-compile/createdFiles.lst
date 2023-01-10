@@ -1,0 +1,6 @@
+com\bct\app\dto\LoginTable.class
+com\bct\app\dto\BranchInfo.class
+com\bct\app\dto\StudentInfo.class
+com\bct\app\dto\Subject.class
+com\bct\app\StudentManagementPortalApplication.class
+com\bct\app\dto\SubjectMarks.class
